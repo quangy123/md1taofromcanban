@@ -1,0 +1,9 @@
+#myCanvas {
+    border: 1px solid #0012ff;
+    background: url("img.jpg");
+    background-size: cover;
+    position: absolute;
+}
+#start {
+    margin-top: 510px;
+}
